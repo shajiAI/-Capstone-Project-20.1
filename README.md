@@ -90,9 +90,8 @@ Next Steps in the Classifier Model Enhancement:
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [https://github.com/shajiAI/-Capstone-Project-20.1/blob/main/module_20_Capstone.Project.SRN.final.version.010.01.2022/Capstone-Project-20.1.Initial.Report.Version0.5.11.01.2022.ipynb](Capstone.Project Python Notebook)
+
 
 
 ##### Contact and Further Information
